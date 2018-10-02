@@ -2,11 +2,8 @@
 
 • This is a website for an AR Library! You can view it [here](Website.html)!
 
-## Header 2
-
-### Header 3
-
----
-Page: test
-Page 2: Test 2
----
+| New | Basic | Y/N |   |   |
+|-----|-------|-----|---|---|
+| 1   | 5     | Y   |   |   |
+| 2   | 6     | N   |   |   |
+| 3   | 7     | N   |   |   |

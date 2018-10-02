@@ -5,3 +5,4 @@
 
 ### SimpleBackgrounds Privacy Policy and Terms & Conditions
 • [Privacy Policy](SB-PP.html)
+• [Terms & Conditions](SB-TC.html)

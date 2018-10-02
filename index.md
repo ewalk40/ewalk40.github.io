@@ -7,5 +7,6 @@
 ### Header 3
 
 ---
-Page: test test
+Page: test
+Page 2: Test 2
 ---

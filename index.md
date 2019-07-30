@@ -13,3 +13,9 @@
 * [Privacy Policy](EB-PP.html)
 * [Terms & Conditions](EB-TC.html)
 * [Support](EB-S.html)
+
+### [Simple Counter - Count Keeper (iOS App)](https://itunes.apple.com/us/app/simple-counter-count-keeper/id1474729185?ls=1&mt=8)
+* [Marketing Page](SC-M.html)
+* [Privacy Policy](SC-PP.html)
+* [Terms & Conditions](SC-TC.html)
+* [Support](SC-S.html)

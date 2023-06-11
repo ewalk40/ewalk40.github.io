@@ -3,7 +3,7 @@
 * This is a website for an AR Library! You can view it [here](Website.html)!
 
 ### [SimplerTips (iOS App)]()
-* [Marketing Page]()
+* [Marketing Page](ST-M.html)
 * [Privacy Policy](ST-PP.html)
 * [Terms & Conditions](ST-TC.html)
 * [Support](ST-S.html)

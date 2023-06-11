@@ -6,7 +6,7 @@
 * [Marketing Page]()
 * [Privacy Policy](ST-PP.html)
 * [Terms & Conditions](ST-TC.html)
-* [Support]()
+* [Support](ST-S.html)
 
 ### [SimpleBackgrounds (iOS App)](https://itunes.apple.com/us/app/simplebackgrounds/id1437742144?ls=1&mt=8)
 * [Marketing Page](SB-M.html)

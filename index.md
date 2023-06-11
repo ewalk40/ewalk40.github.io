@@ -5,7 +5,7 @@
 ### [SimplerTips (iOS App)]()
 * [Marketing Page]()
 * [Privacy Policy](ST-PP.html)
-* [Terms & Conditions]()
+* [Terms & Conditions](ST-TC.html)
 * [Support]()
 
 ### [SimpleBackgrounds (iOS App)](https://itunes.apple.com/us/app/simplebackgrounds/id1437742144?ls=1&mt=8)

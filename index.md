@@ -2,6 +2,12 @@
 
 * This is a website for an AR Library! You can view it [here](Website.html)!
 
+### [EVTools (iOS App)]()
+* [Marketing Page](EVT-M.html)
+* [Privacy Policy](EVT-PP.html)
+* [Terms & Conditions](EVT-TC.html)
+* [Support](EVT-S.html)
+
 ### [SimplerTips (iOS App)]()
 * [Marketing Page](ST-M.html)
 * [Privacy Policy](ST-PP.html)

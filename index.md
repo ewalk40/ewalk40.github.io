@@ -1,14 +1,20 @@
 ### EWalkTech Quick Links
 
 * This is a website for an AR Library! You can view it [here](Website.html)!
-
+* 
+### [ChargeBuddy (iOS App)]()
+* [Marketing Page](CB-M.html)
+* [Privacy Policy](CB-PP.html)
+* [Terms & Conditions](CB-TC.html)
+* [Support](CB-S.html)
+* 
 ### [EVTools (iOS App)]()
 * [Marketing Page](EVT-M.html)
 * [Privacy Policy](EVT-PP.html)
 * [Terms & Conditions](EVT-TC.html)
 * [Support](EVT-S.html)
 
-### [SimplerTips (iOS App)]()
+### [SimplerTips (iOS App)](https://apps.apple.com/us/app/simplertips-simple-tip-calc/id6449882261)
 * [Marketing Page](ST-M.html)
 * [Privacy Policy](ST-PP.html)
 * [Terms & Conditions](ST-TC.html)

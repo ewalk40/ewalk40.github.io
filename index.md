@@ -1,7 +1,7 @@
 ### EWalkTech Quick Links
 
 * This is a website for an AR Library! You can view it [here](Website.html)!
-* 
+  
 ### [ChargeBuddy (iOS App)]()
 * [Marketing Page](CB-M.html)
 * [Privacy Policy](CB-PP.html)

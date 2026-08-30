@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Flights is a simple personal flight log for routes, trips, maps, statistics, widgets, and exports.">
+  <title>Flights — Your flight history, mapped</title>
+  <style>
+    :root{color-scheme:light;--bg:#e8e8e8;--text:#303030;--link:#195ea8;--card:#f7f7f7;--line:#cecece}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Calibri,Arial,sans-serif;font-size:20px;line-height:1.55}main,footer{width:min(1100px,calc(100% - 40px));margin:auto}.hero{text-align:center;padding:96px 0 64px}.eyebrow{font-size:.82rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--link)}h1{font-size:clamp(3.2rem,9vw,6.5rem);line-height:.95;margin:.15em 0}h2{font-size:clamp(1.8rem,4vw,2.7rem);line-height:1.1;margin:.2em 0 .6em}.lead{font-size:clamp(1.25rem,3vw,1.7rem);max-width:760px;margin:0 auto 1.5em}.cta{display:inline-block;background:var(--link);color:white;text-decoration:none;font-weight:700;padding:.7em 1.2em;border-radius:999px}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:24px;margin:0 0 64px}.card,.privacy{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:30px}.card p{margin-bottom:0}.privacy{margin-bottom:64px}.privacy p:last-child{margin-bottom:0}a{color:var(--link)}footer{border-top:1px solid var(--line);padding:28px 0 48px;text-align:center;font-size:.9rem}nav a{margin:0 .45em}@media(max-width:700px){body{font-size:18px}.hero{padding:64px 0 44px}.grid{grid-template-columns:1fr}.card,.privacy{padding:24px}}
+  </style>
+</head>
+<body>
+  <main>
+    <header class="hero">
+      <div class="eyebrow">A personal flight log</div>
+      <h1>Flights</h1>
+      <p class="lead">Record routes, organize trips, and see your flight history through maps and useful statistics.</p>
+      <a class="cta" href="Flights-S.html">Get support</a>
+    </header>
+    <section class="grid" aria-label="Features">
+      <article class="card"><h2>Log the details</h2><p>Keep dates, airlines, flight numbers, airports, flight time, aircraft details, seats, and notes together. Apple Maps search helps identify airports.</p></article>
+      <article class="card"><h2>Build each trip</h2><p>Group flights into named, color-coded trips. Reorder an itinerary, add notes, review totals, and explore every leg on a map.</p></article>
+      <article class="card"><h2>Understand your history</h2><p>Review lifetime and yearly totals, route maps, airline charts, distance and time, favorite airports, and longest-flight highlights.</p></article>
+      <article class="card"><h2>Keep and share it</h2><p>Export JSON backups or CSV records, create shareable trip and yearly cards, and glance at lifetime or current-year totals in widgets.</p></article>
+    </section>
+    <section class="privacy">
+      <h2>Your records, in your Apple environment</h2>
+      <p>Flights stores flight and trip records with SwiftData and is configured to synchronize them through Apple's CloudKit service in your iCloud environment when available. Aggregate totals are shared on-device with the app's widgets. There are no ads or third-party analytics.</p>
+      <p><a href="Flights-PP.html">Read the Privacy Policy</a></p>
+    </section>
+  </main>
+  <footer><nav><a href="Flights-S.html">Support</a><a href="Flights-PP.html">Privacy</a><a href="Flights-TC.html">Terms</a></nav><p>Created by Eric Walker</p></footer>
+</body>
+</html>

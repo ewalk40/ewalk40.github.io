@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Help and support for the Flights app.">
+  <title>Flights Support</title>
+  <style>
+    :root{color-scheme:light;--bg:#e8e8e8;--text:#303030;--link:#195ea8;--card:#f7f7f7;--line:#cecece}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Calibri,Arial,sans-serif;font-size:20px;line-height:1.55}main,footer{width:min(1100px,calc(100% - 40px));margin:auto}header{padding:70px 0 36px}h1{font-size:clamp(2.8rem,7vw,5rem);line-height:1;margin:.1em 0}h2{font-size:1.65rem;line-height:1.15}section{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:28px;margin:0 0 22px}li+li{margin-top:.55em}a{color:var(--link)}.contact{border-left:8px solid var(--link)}footer{border-top:1px solid var(--line);padding:28px 0 48px;text-align:center;font-size:.9rem}nav a{margin:0 .45em}@media(max-width:650px){body{font-size:18px}header{padding-top:48px}section{padding:22px}}
+  </style>
+</head>
+<body>
+  <main>
+    <header><p>Flights help</p><h1>Support</h1><p>Practical help for recording, organizing, and protecting your flight history.</p></header>
+    <section><h2>Add or correct a flight</h2><ol><li>Open the Flights tab and tap the plus button.</li><li>Enter an airport code, airport name, or city, then tap search for each endpoint. Airport lookup requires a network connection to Apple's Maps service.</li><li>Add the date and any optional airline, time, aircraft, seat, or note details, then save.</li><li>To make a correction, open the flight and tap Edit. Swipe a flight in the list to delete it.</li></ol><p>Distances are point-to-point estimates based on the airport coordinates returned by Apple Maps; they may differ from the route actually flown.</p></section>
+    <section><h2>Trips, maps, cards, and widgets</h2><ul><li>Create a trip from the Trips tab, choose its dates and color, and assign flights. Open the trip and use Edit to reorder its itinerary.</li><li>If a map or airport result looks wrong, edit the flight and search again with a more specific airport name or code.</li><li>Share cards are generated from the trip or selected year's saved totals. Use the system share sheet to choose a destination.</li><li>If a widget is not current, open Flights so it can refresh its on-device aggregate snapshot, then allow the Home Screen widget a moment to reload.</li></ul></section>
+    <section><h2>iCloud synchronization</h2><p>Flight and trip records use SwiftData and are configured to synchronize through Apple's CloudKit service in your Apple/iCloud environment when available. Make sure you are signed into the intended iCloud account and that network access is available. Synchronization timing is managed by Apple and can vary.</p><p>Because CloudKit is enabled, records are not necessarily confined to one device. Deleting a synchronized record may propagate to other devices using the same iCloud environment.</p></section>
+    <section><h2>Backups, CSV, and local files</h2><p>Use the Data menu in the Flights tab to export a JSON backup or a CSV file. Save exports somewhere you control. Import Backup accepts the app's supported JSON backup format and adds or updates matching records without intentionally duplicating matching archive identifiers.</p><p>Before replacing a device or making extensive edits, create a fresh JSON backup. Exported files are separate copies and are not removed when an in-app record is deleted.</p></section>
+    <section class="contact"><h2>Contact</h2><p>Need more help? Email <a href="mailto:ewalktech@gmail.com?subject=Flights%20Support">ewalktech@gmail.com</a>. Eric Walker will respond as soon as possible. Include your device model, software version, and a short description of what happened; do not send sensitive information.</p></section>
+  </main>
+  <footer><nav><a href="Flights-M.html">Marketing</a><a href="Flights-PP.html">Privacy</a><a href="Flights-TC.html">Terms</a></nav><p>Created by Eric Walker</p></footer>
+</body>
+</html>

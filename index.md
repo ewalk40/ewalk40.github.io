@@ -1,7 +1,13 @@
 ### EWalkTech Quick Links
 
 * This is a website for an AR Library! You can view it [here](Website.html)!
-  
+
+### [Flights (iOS App)]()
+* [Marketing Page](Flights-M.html)
+* [Privacy Policy](Flights-PP.html)
+* [Terms & Conditions](Flights-TC.html)
+* [Support](Flights-S.html)
+
 ### [ChargeBuddy (iOS App)]()
 * [Marketing Page](CB-M.html)
 * [Privacy Policy](CB-PP.html)

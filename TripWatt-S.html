@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Help and support for TripWatt."><title>TripWatt Support</title>
+  <style>:root{color-scheme:light;--bg:#e8e8e8;--ink:#303030;--link:#195ea8;--card:#fff;--line:#c9c9c9}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Calibri,Arial,sans-serif;font-size:20px;line-height:1.55}main,footer{width:min(1100px,calc(100% - 36px));margin:auto}header{padding:64px 0 25px;text-align:center}h1{font-size:clamp(2.6rem,8vw,4.8rem);line-height:1.05;margin:.15em}.intro{font-size:1.25rem;max-width:760px;margin:1rem auto}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.card,.contact{background:#fff;border:1px solid var(--line);border-radius:18px;padding:28px}.card h2,.contact h2{margin-top:0;font-size:1.5rem}.contact{text-align:center;margin:30px 0}a{color:var(--link)}footer{border-top:1px solid var(--line);margin-top:45px;padding:28px 0 44px;text-align:center;font-size:1rem}.nav{display:flex;justify-content:center;gap:18px;flex-wrap:wrap}@media(max-width:700px){body{font-size:18px}header{padding-top:46px}.grid{grid-template-columns:1fr}.card,.contact{padding:22px}}</style>
+</head>
+<body>
+<main>
+  <header><h1>TripWatt Support</h1><p class="intro">Practical help for logging trips, reviewing calculations, syncing records, and moving your data.</p></header>
+  <section class="grid">
+    <article class="card"><h2>Start a trip</h2><p>Add at least one vehicle in Settings and optionally mark it as the default. In Trips, add a one-way or round trip. Round trips provide separate Going and Return legs. Open a leg's stop actions to add a drive or charging stop.</p></article>
+    <article class="card"><h2>Missing calculations?</h2><p>Calculated values appear only when the needed entries exist. Charging power needs energy added and charging time above zero. Cost per kWh needs cost and energy above zero. Estimated energy use and efficiency need battery capacity plus valid starting and arrival charge levels.</p></article>
+    <article class="card"><h2>iCloud is not updating</h2><p>Confirm both devices use the same iCloud account and have iCloud available. In TripWatt Settings, verify iCloud Sync is enabled. A change to this switch takes effect the next time TripWatt opens, so close and reopen the app. Network access may be needed for Apple CloudKit to synchronize.</p></article>
+    <article class="card"><h2>Use data on one device</h2><p>Turn off iCloud Sync in Settings and reopen TripWatt. The app then uses its on-device SwiftData store without CloudKit synchronization. Turning sync off does not promise removal of copies Apple may already hold; manage iCloud data through Apple's account and device controls.</p></article>
+    <article class="card"><h2>Export or share</h2><p>From Settings, export a spreadsheet for one row per stop or export a full backup. From a trip, use Share Trip Summary for readable text. The destination you choose may receive the exported content under that destination's own privacy practices.</p></article>
+    <article class="card"><h2>Restore a backup carefully</h2><p>Import Backup accepts a TripWatt CSV backup. After confirmation, it replaces current vehicles, trips, unit, and currency settings on the device. Export a current backup first if you might need those records later.</p></article>
+  </section>
+  <section class="contact"><h2>Still need help?</h2><p>Email <a href="mailto:ewalktech@gmail.com?subject=TripWatt%20Support">ewalktech@gmail.com</a>. Eric Walker will respond as soon as possible.</p></section>
+</main>
+<footer><nav class="nav" aria-label="Site links"><a href="TripWatt-M.html">TripWatt</a><a href="TripWatt-PP.html">Privacy</a><a href="TripWatt-TC.html">Terms</a></nav><p>Created by Eric Walker · © 2026 Eric Walker</p></footer>
+</body>
+</html>

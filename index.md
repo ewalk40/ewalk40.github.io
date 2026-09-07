@@ -2,6 +2,12 @@
 
 * This is a website for an AR Library! You can view it [here](Website.html)!
 
+### [Emoji Cart (iOS App)]()
+* [Marketing Page](EmojiCart-M.html)
+* [Privacy Policy](EmojiCart-PP.html)
+* [Terms & Conditions](EmojiCart-TC.html)
+* [Support](EmojiCart-S.html)
+
 ### [TripWatt (iOS App)]()
 * [Marketing Page](TripWatt-M.html)
 * [Privacy Policy](TripWatt-PP.html)

@@ -2,6 +2,12 @@
 
 * This is a website for an AR Library! You can view it [here](Website.html)!
 
+### [BalanceBuddy (iOS App)]()
+* [Marketing Page](BalanceBuddy-M.html)
+* [Privacy Policy](BalanceBuddy-PP.html)
+* [Terms & Conditions](BalanceBuddy-TC.html)
+* [Support](BalanceBuddy-S.html)
+  
 ### [Emoji Cart (iOS App)]()
 * [Marketing Page](EmojiCart-M.html)
 * [Privacy Policy](EmojiCart-PP.html)
